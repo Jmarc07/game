@@ -1,0 +1,1 @@
+you need to add -lncurses at the end to be able to compile 
